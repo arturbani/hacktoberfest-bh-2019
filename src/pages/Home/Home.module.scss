@@ -2,4 +2,42 @@
   display: flex;
   flex-direction: column;
   align-items: center;
+  min-height: 100vh;
+  padding: 5vh 0;
+
+  background-color: #152347;
+}
+
+.header {
+  font-size: 60px;
+  color: white;
+}
+
+.content {
+  display: flex;
+  width: 100%;
+  flex-wrap: wrap;
+  min-height: 100vh;
+  min-width: 90vh;
+  padding-top: 5vh;
+  margin-bottom: 5vh;
+
+   * {
+    margin: 1em;
+  }
+  
+}
+
+.footer {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+
+  div {
+    display: flex;
+    width: 50%;
+    align-items: center;
+    justify-content: space-between;
+  }
 }
