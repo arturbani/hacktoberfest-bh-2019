@@ -1,3 +1,21 @@
 .container {
   display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 400px;
+  width: 250px;
+  padding: 2%;
+  background-color: white;
+
+  h3 {
+    margin: 0;
+  }
+
+  p {
+    max-height: 100px;
+  }
+}
+
+.image {
+  max-height: 200px;
 }
