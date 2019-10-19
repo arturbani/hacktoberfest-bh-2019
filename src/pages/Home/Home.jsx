@@ -17,6 +17,7 @@ import gustavoBarros from '../../assets/images/gustavo-barros.jpeg'
 import raquelPhoto from '../../assets/images/raquel-profile.jpeg'
 import rodrigoPhoto from '../../assets/images/rodrigo-profile.jpeg'
 import daviPhoto from '../../assets/images/davi.jpeg'
+import gabrieldPhoto from '../../assets/images/gabrield.jpg'
 import arturPhoto from '../../assets/images/imageArtur.jpeg'
 
 const Home = () => (
@@ -107,6 +108,12 @@ const Home = () => (
           role="Analista de Sistemas"
           image={rafael}
           description="Lets Code"
+        />
+        <Card
+          name="Gabriel Dias"
+          role="Desenvolvedor de Software"
+          image={gabrieldPhoto}
+          description="Console.log('Hello World')"
         />
         <Card
            name="Bruno Filipe"
