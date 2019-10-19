@@ -6,6 +6,7 @@ import { Card } from 'components'
 
 import styles from './Home.module.scss'
 import imagemNH from '../../assets/images/nh-logo.png'
+import lucasPhoto from '../../assets/images/lucas-profile.jpeg'
 
 const Home = () => {
   return (
@@ -19,11 +20,20 @@ const Home = () => {
             image={imagemNH}
             description="Estamos muito felizes em reunir essa moçada pra contribuir com a comunidade open-source \o/."
           />
+
+          <Card
+            name="Lucas"
+            role="Desenvolvedor de Software"
+            image={lucasPhoto}
+            description="\o/."
+          />
         </div>
       </main>
+
       <div className={styles.footer}>
         <div>
-          <HacktoberfestLogo /> <NataHouseIcon />
+          <HacktoberfestLogo />
+          <NataHouseIcon />
         </div>
       </div>
     </div>
