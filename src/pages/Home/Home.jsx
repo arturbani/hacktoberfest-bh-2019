@@ -7,6 +7,7 @@ import { Card } from 'components'
 import styles from './Home.module.scss'
 import imagemNH from '../../assets/images/nh-logo.png'
 import lucasPhoto from '../../assets/images/lucas-profile.jpeg'
+import danielPhoto from '../../assets/images/daniel-profile.jpeg'
 import luccaPhoto from '../../assets/images/lucca-profile.jpeg'
 import gustavoBarros from '../../assets/images/gustavo-barros.jpeg'
 import raquelPhoto from '../../assets/images/raquel-profile.jpeg'
@@ -71,6 +72,12 @@ const Home = () => (
           role="Filósofo"
           image="http://opiniaoenoticia.com.br/wp-content/uploads/2016/09/arthur_schopenhauer_33.jpg"
           description="Estamos muito felizes em reunir essa moçada pra contribuir com a comunidade open-source \o/."
+        /> 
+        <Card
+          name="Daniel Lima"
+          role="Desenvolvedor de Software"
+          image={danielPhoto}
+          description="\o/"
         />
       </div>
     </main>
