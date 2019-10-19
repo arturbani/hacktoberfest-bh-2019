@@ -15,6 +15,7 @@ import gustavoBarros from '../../assets/images/gustavo-barros.jpeg'
 import raquelPhoto from '../../assets/images/raquel-profile.jpeg'
 import rodrigoPhoto from '../../assets/images/rodrigo-profile.jpeg'
 import daviPhoto from '../../assets/images/davi.jpeg'
+import arturPhoto from '../../assets/images/imageArtur.jpeg'
 
 const Home = () => (
   <div className={styles.container}>
@@ -26,6 +27,12 @@ const Home = () => (
           role="Fábrica de Software"
           image={imagemNH}
           description="Estamos muito felizes em reunir essa moçada pra contribuir com a comunidade open-source \o/."
+        />
+        <Card 
+          name="Artur"
+          role="Desenvolvedor de Software"
+          image={arturPhoto}
+          description="leia o livro universo em desencanto."
         />
         <Card
           name="Lucas"
