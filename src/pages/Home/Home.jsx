@@ -31,7 +31,7 @@ const Home = () => {
             name="Henrique"
             role="Filósofo"
             image="http://opiniaoenoticia.com.br/wp-content/uploads/2016/09/arthur_schopenhauer_33.jpg"
-            description="Estamos muito felizes em reunir essa moçada pra contribuir com a comunidade open-source \o/."
+            description="Estamos muito tristes \o/."
           />
         </div>
       </main>
