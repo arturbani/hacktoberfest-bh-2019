@@ -29,7 +29,7 @@ const Home = () => (
           image={imagemNH}
           description="Estamos muito felizes em reunir essa moçada pra contribuir com a comunidade open-source \o/."
         />
-        <Card 
+        <Card
           name="Artur"
           role="Desenvolvedor de Software"
           image={arturPhoto}
@@ -77,12 +77,12 @@ const Home = () => (
           image="https://miro.medium.com/max/2560/1*4IylnkNDFJ1aMYAlrsZoIg.jpeg"
           description="\o/."
         />
-         <Card
+        <Card
           name="Henrique"
           role="Filósofo"
           image="http://opiniaoenoticia.com.br/wp-content/uploads/2016/09/arthur_schopenhauer_33.jpg"
           description="Estamos muito felizes em reunir essa moçada pra contribuir com a comunidade open-source \o/."
-        /> 
+        />
         <Card
           name="Daniel Lima"
           role="Desenvolvedor de Software"
@@ -107,33 +107,32 @@ const Home = () => (
           image={rafael}
           description="Lets Code"
         />
-         <Card
-            name="Bruno Filipe"
-            role="Desenvolvedor de Software"
-            image="https://avatars2.githubusercontent.com/u/37847186?s=460&v=4"
-            description="\o/"
-          />
-          <Card
-            name="Pâmela Fernanda"
-            role="Estudante de Desenvolvimento"
-            image="https://instagram.fsdu17-1.fna.fbcdn.net/vp/d1792f66ad15a410e4224cff6d19d904/5E245E34/t51.2885-15/e35/s150x150/69897761_157549648670245_2425795837158383202_n.jpg?_nc_ht=instagram.fsdu17-1.fna.fbcdn.net&_nc_cat=101"
-            description="\o/"
-          />
-          <Card
-            name="Gabriel Timóteo"
-            role="Quase Desenvolvedor de Software"
-            image={gtPhoto}
-            description="Em breve funcionário da NH xD"
-          />
-        </div>
-      </main>
-      <div className={styles.footer}>
-        <div>
-          <HacktoberfestLogo />
-          <NataHouseIcon />
-        </div>
+        <Card
+          name="Bruno Filipe"
+          role="Desenvolvedor de Software"
+          image="https://avatars2.githubusercontent.com/u/37847186?s=460&v=4"
+          description="\o/"
+        />
+        <Card
+          name="Pâmela Fernanda"
+          role="Estudante de Desenvolvimento"
+          image="https://instagram.fsdu17-1.fna.fbcdn.net/vp/d1792f66ad15a410e4224cff6d19d904/5E245E34/t51.2885-15/e35/s150x150/69897761_157549648670245_2425795837158383202_n.jpg?_nc_ht=instagram.fsdu17-1.fna.fbcdn.net&_nc_cat=101"
+          description="\o/"
+        />
+        <Card
+          name="Gabriel Timóteo"
+          role="Quase Desenvolvedor de Software"
+          image={gtPhoto}
+          description="Em breve funcionário da NH xD"
+        />
       </div>
     </main>
+    <div className={styles.footer}>
+      <div>
+        <HacktoberfestLogo />
+        <NataHouseIcon />
+      </div>
+    </div>
     <div className={styles.footer}>
       <div>
         <HacktoberfestLogo />
