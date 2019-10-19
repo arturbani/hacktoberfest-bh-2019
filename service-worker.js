@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/hacktoberfest-bh-2019/precache-manifest.96a146aad343f3fcc0784cca10b209be.js"
+  "/hacktoberfest-bh-2019/precache-manifest.3626cb4a8ffd53624aef1aace75ac07d.js"
 );
 
 self.addEventListener('message', (event) => {
