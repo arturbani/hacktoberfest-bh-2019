@@ -86,6 +86,12 @@ const Home = () => (
           image={alessandraPhoto}
           description="hello world"
         />
+        <Card
+          name="Ana Luíza"
+          role="Estudante de Desenvolvimento"
+          image="https://avatars0.githubusercontent.com/u/44124220?s=400&u=353f63ba320480d193ad4a4fe2d19f4bf6538eb3&v=4"
+          description="\o/."
+        />
       </div>
     </main>
     <div className={styles.footer}>
