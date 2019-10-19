@@ -7,6 +7,8 @@ import { Card } from 'components'
 import styles from './Home.module.scss'
 import imagemNH from '../../assets/images/nh-logo.png'
 import lucasPhoto from '../../assets/images/lucas-profile.jpeg'
+import rodrigoPhoto from '../../assets/images/rodrigo-profile.jpeg'
+
 
 const Home = () => {
   return (
@@ -27,6 +29,14 @@ const Home = () => {
             image={lucasPhoto}
             description="\o/."
           />
+
+        <Card
+            name="Rodrigo Gomes"
+            role="Estudante de Computação"
+            image={rodrigoPhoto}
+            description="Salve rapaziada! :D."
+          />
+
         </div>
       </main>
 
