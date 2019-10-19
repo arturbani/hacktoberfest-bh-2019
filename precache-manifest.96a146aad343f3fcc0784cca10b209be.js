@@ -1,23 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2f74449e8e738dbc57ea1d575974ccdf",
+    "revision": "f3280118821f74132ffd7e20ea266871",
     "url": "/hacktoberfest-bh-2019/index.html"
   },
   {
-    "revision": "da2405d66bc99863da95",
+    "revision": "3cd54538f538b9c3a903",
     "url": "/hacktoberfest-bh-2019/static/css/main.bec0eb7d.chunk.css"
   },
   {
-    "revision": "63bcdd3020b91f123b26",
-    "url": "/hacktoberfest-bh-2019/static/js/2.6070b01a.chunk.js"
+    "revision": "4e0d2f764cb988f75e95",
+    "url": "/hacktoberfest-bh-2019/static/js/2.c233a4e1.chunk.js"
   },
   {
-    "revision": "da2405d66bc99863da95",
-    "url": "/hacktoberfest-bh-2019/static/js/main.2dce8ae9.chunk.js"
+    "revision": "3cd54538f538b9c3a903",
+    "url": "/hacktoberfest-bh-2019/static/js/main.c7ba9ced.chunk.js"
   },
   {
     "revision": "3e36d3ebdc7ec31b95e3",
     "url": "/hacktoberfest-bh-2019/static/js/runtime-main.496b799b.js"
+  },
+  {
+    "revision": "2b01345f4a07c88482f3ff0764120d3c",
+    "url": "/hacktoberfest-bh-2019/static/media/daniel-profile.2b01345f.jpeg"
   },
   {
     "revision": "57c0c795da2c4d6cbb5f7a91cf4be493",
