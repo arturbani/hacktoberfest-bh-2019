@@ -7,6 +7,7 @@ import { Card } from 'components'
 import styles from './Home.module.scss'
 import imagemNH from '../../assets/images/nh-logo.png'
 import lucasPhoto from '../../assets/images/lucas-profile.jpeg'
+import gtPhoto from '../../assets/images/gt-perfil.jpg'
 import rafael from '../../assets/images/indice.png'
 import alessandraPhoto from '../../assets/images/alessandraPhoto.jpg'
 import danielPhoto from '../../assets/images/daniel-profile.jpeg'
@@ -118,6 +119,19 @@ const Home = () => (
             image="https://instagram.fsdu17-1.fna.fbcdn.net/vp/d1792f66ad15a410e4224cff6d19d904/5E245E34/t51.2885-15/e35/s150x150/69897761_157549648670245_2425795837158383202_n.jpg?_nc_ht=instagram.fsdu17-1.fna.fbcdn.net&_nc_cat=101"
             description="\o/"
           />
+          <Card
+            name="Gabriel Timóteo"
+            role="Quase Desenvolvedor de Software"
+            image={gtPhoto}
+            description="Em breve funcionário da NH xD"
+          />
+        </div>
+      </main>
+      <div className={styles.footer}>
+        <div>
+          <HacktoberfestLogo />
+          <NataHouseIcon />
+        </div>
       </div>
     </main>
     <div className={styles.footer}>
