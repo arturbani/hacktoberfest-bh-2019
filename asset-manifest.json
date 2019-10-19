@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/hacktoberfest-bh-2019/static/css/main.48e0b4bd.chunk.css",
-    "main.js": "/hacktoberfest-bh-2019/static/js/main.5cf13156.chunk.js",
-    "main.js.map": "/hacktoberfest-bh-2019/static/js/main.5cf13156.chunk.js.map",
+    "main.css": "/hacktoberfest-bh-2019/static/css/main.bec0eb7d.chunk.css",
+    "main.js": "/hacktoberfest-bh-2019/static/js/main.8a0dc3e9.chunk.js",
+    "main.js.map": "/hacktoberfest-bh-2019/static/js/main.8a0dc3e9.chunk.js.map",
     "runtime-main.js": "/hacktoberfest-bh-2019/static/js/runtime-main.496b799b.js",
     "runtime-main.js.map": "/hacktoberfest-bh-2019/static/js/runtime-main.496b799b.js.map",
-    "static/js/2.f8d0f563.chunk.js": "/hacktoberfest-bh-2019/static/js/2.f8d0f563.chunk.js",
-    "static/js/2.f8d0f563.chunk.js.map": "/hacktoberfest-bh-2019/static/js/2.f8d0f563.chunk.js.map",
+    "static/js/2.154bc3bb.chunk.js": "/hacktoberfest-bh-2019/static/js/2.154bc3bb.chunk.js",
+    "static/js/2.154bc3bb.chunk.js.map": "/hacktoberfest-bh-2019/static/js/2.154bc3bb.chunk.js.map",
     "index.html": "/hacktoberfest-bh-2019/index.html",
-    "precache-manifest.1c2650fefea844456b83a3a10e9d6207.js": "/hacktoberfest-bh-2019/precache-manifest.1c2650fefea844456b83a3a10e9d6207.js",
+    "precache-manifest.d1a3a0f5f8067fa1adbc591f8dd5555e.js": "/hacktoberfest-bh-2019/precache-manifest.d1a3a0f5f8067fa1adbc591f8dd5555e.js",
     "service-worker.js": "/hacktoberfest-bh-2019/service-worker.js",
-    "static/css/main.48e0b4bd.chunk.css.map": "/hacktoberfest-bh-2019/static/css/main.48e0b4bd.chunk.css.map",
+    "static/css/main.bec0eb7d.chunk.css.map": "/hacktoberfest-bh-2019/static/css/main.bec0eb7d.chunk.css.map",
     "static/media/alessandraPhoto.jpg": "/hacktoberfest-bh-2019/static/media/alessandraPhoto.e09e301f.jpg",
     "static/media/daniel-profile.jpeg": "/hacktoberfest-bh-2019/static/media/daniel-profile.2b01345f.jpeg",
     "static/media/davi.jpeg": "/hacktoberfest-bh-2019/static/media/davi.57c0c795.jpeg",
     "static/media/gustavo-barros.jpeg": "/hacktoberfest-bh-2019/static/media/gustavo-barros.f9053f4e.jpeg",
+    "static/media/indice.png": "/hacktoberfest-bh-2019/static/media/indice.9fe53d4c.png",
     "static/media/lucas-profile.jpeg": "/hacktoberfest-bh-2019/static/media/lucas-profile.45e42d0f.jpeg",
     "static/media/lucca-profile.jpeg": "/hacktoberfest-bh-2019/static/media/lucca-profile.9559a042.jpeg",
     "static/media/nh-logo.png": "/hacktoberfest-bh-2019/static/media/nh-logo.ed47b38b.png",
@@ -23,8 +24,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.496b799b.js",
-    "static/js/2.f8d0f563.chunk.js",
-    "static/css/main.48e0b4bd.chunk.css",
-    "static/js/main.5cf13156.chunk.js"
+    "static/js/2.154bc3bb.chunk.js",
+    "static/css/main.bec0eb7d.chunk.css",
+    "static/js/main.8a0dc3e9.chunk.js"
   ]
 }
