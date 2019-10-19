@@ -5,8 +5,9 @@
   height: 400px;
   width: 250px;
   padding: 2%;
-  background-color: white;
-
+  background-color:white;  
+  border-radius:25px; 
+  
   h3 {
     margin: 0;
   }
@@ -18,4 +19,7 @@
 
 .image {
   max-height: 200px;
+  border-radius: 50%;
+  border: 2px inset #152347;
 }
+
