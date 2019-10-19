@@ -60,12 +60,12 @@ const Home = () => (
           image={daviPhoto}
           description="olá,passando pra avisar que computação é massa \o/."
         />
-         <Card
-            name="Hactoberfest 2018"
-            role="Evento"
-            image="https://miro.medium.com/max/2560/1*4IylnkNDFJ1aMYAlrsZoIg.jpeg"
-            description="\o/."
-          />
+        <Card
+          name="Hactoberfest 2018"
+          role="Evento"
+          image="https://miro.medium.com/max/2560/1*4IylnkNDFJ1aMYAlrsZoIg.jpeg"
+          description="\o/."
+        />
       </div>
     </main>
     <div className={styles.footer}>
