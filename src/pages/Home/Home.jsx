@@ -133,12 +133,6 @@ const Home = () => (
         <NataHouseIcon />
       </div>
     </div>
-    <div className={styles.footer}>
-      <div>
-        <HacktoberfestLogo />
-        <NataHouseIcon />
-      </div>
-    </div>
   </div>
 )
 
