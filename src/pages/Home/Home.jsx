@@ -27,6 +27,13 @@ const Home = () => {
             image={lucasPhoto}
             description="\o/."
           />
+
+          <Card
+            name="Hactoberfest 2018"
+            role="Evento"
+            image="https://miro.medium.com/max/2560/1*4IylnkNDFJ1aMYAlrsZoIg.jpeg"
+            description="\o/."
+          />
         </div>
       </main>
 
