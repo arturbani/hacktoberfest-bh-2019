@@ -1,22 +1,23 @@
 {
   "files": {
     "main.css": "/hacktoberfest-bh-2019/static/css/main.48e0b4bd.chunk.css",
-    "main.js": "/hacktoberfest-bh-2019/static/js/main.4236553e.chunk.js",
-    "main.js.map": "/hacktoberfest-bh-2019/static/js/main.4236553e.chunk.js.map",
+    "main.js": "/hacktoberfest-bh-2019/static/js/main.00b4b83e.chunk.js",
+    "main.js.map": "/hacktoberfest-bh-2019/static/js/main.00b4b83e.chunk.js.map",
     "runtime-main.js": "/hacktoberfest-bh-2019/static/js/runtime-main.496b799b.js",
     "runtime-main.js.map": "/hacktoberfest-bh-2019/static/js/runtime-main.496b799b.js.map",
-    "static/js/2.6e9e8403.chunk.js": "/hacktoberfest-bh-2019/static/js/2.6e9e8403.chunk.js",
-    "static/js/2.6e9e8403.chunk.js.map": "/hacktoberfest-bh-2019/static/js/2.6e9e8403.chunk.js.map",
+    "static/js/2.0d84c1bc.chunk.js": "/hacktoberfest-bh-2019/static/js/2.0d84c1bc.chunk.js",
+    "static/js/2.0d84c1bc.chunk.js.map": "/hacktoberfest-bh-2019/static/js/2.0d84c1bc.chunk.js.map",
     "index.html": "/hacktoberfest-bh-2019/index.html",
-    "precache-manifest.db2cf80210a9d8bd5d4b2e55464a03fa.js": "/hacktoberfest-bh-2019/precache-manifest.db2cf80210a9d8bd5d4b2e55464a03fa.js",
+    "precache-manifest.e37b1ae29aa9f848b9730a24e6ab2179.js": "/hacktoberfest-bh-2019/precache-manifest.e37b1ae29aa9f848b9730a24e6ab2179.js",
     "service-worker.js": "/hacktoberfest-bh-2019/service-worker.js",
     "static/css/main.48e0b4bd.chunk.css.map": "/hacktoberfest-bh-2019/static/css/main.48e0b4bd.chunk.css.map",
+    "static/media/lucas-profile.jpeg": "/hacktoberfest-bh-2019/static/media/lucas-profile.45e42d0f.jpeg",
     "static/media/nh-logo.png": "/hacktoberfest-bh-2019/static/media/nh-logo.ed47b38b.png"
   },
   "entrypoints": [
     "static/js/runtime-main.496b799b.js",
-    "static/js/2.6e9e8403.chunk.js",
+    "static/js/2.0d84c1bc.chunk.js",
     "static/css/main.48e0b4bd.chunk.css",
-    "static/js/main.4236553e.chunk.js"
+    "static/js/main.00b4b83e.chunk.js"
   ]
 }
