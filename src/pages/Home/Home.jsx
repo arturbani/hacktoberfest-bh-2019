@@ -8,7 +8,7 @@ import styles from './Home.module.scss'
 import imagemNH from '../../assets/images/nh-logo.png'
 import lucasPhoto from '../../assets/images/lucas-profile.jpeg'
 import rodrigoPhoto from '../../assets/images/rodrigo-profile.jpeg'
-
+import daviPhoto from  '../../assets/images/davi.jpeg'
 
 const Home = () => {
   return (
@@ -22,21 +22,24 @@ const Home = () => {
             image={imagemNH}
             description="Estamos muito felizes em reunir essa moçada pra contribuir com a comunidade open-source \o/."
           />
-
           <Card
             name="Lucas"
             role="Desenvolvedor de Software"
             image={lucasPhoto}
             description="\o/."
           />
-
         <Card
             name="Rodrigo Gomes"
             role="Estudante de Computação"
             image={rodrigoPhoto}
             description="Salve rapaziada! :D."
           />
-
+         <Card
+            name="Davi"
+            role="Estudante de Computação"
+            image={daviPhoto}
+            description="olá,passando pra avisar que computação é massa \o/."
+          />
         </div>
       </main>
 
