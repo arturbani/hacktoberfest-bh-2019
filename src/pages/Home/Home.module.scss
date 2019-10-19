@@ -13,23 +13,6 @@
   color: white;
 }
 
-.content {
-  display: grid;
-  width: 100%;
-  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-  justify-items: center;
-  grid-column-gap: 30px;
-  grid-row-gap: 15px;
-  min-height: 100vh;
-  min-width: 90vh;
-  padding-top: 5vh;
-  margin-bottom: 5vh;
-
-  * {
-    margin: 1em;
-  }
-}
-
 .footer {
   display: flex;
   width: 100%;
