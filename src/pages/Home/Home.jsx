@@ -15,6 +15,7 @@ import gustavoBarros from '../../assets/images/gustavo-barros.jpeg'
 import raquelPhoto from '../../assets/images/raquel-profile.jpeg'
 import rodrigoPhoto from '../../assets/images/rodrigo-profile.jpeg'
 import daviPhoto from '../../assets/images/davi.jpeg'
+import celsonPhoto from '../../assets/images/celson-img.jpg'
 
 const Home = () => (
   <div className={styles.container}>
@@ -99,6 +100,14 @@ const Home = () => (
           image={rafael}
           description="Lets Code"
         />
+        
+        <Card
+          name="Celson Fernando"
+          role="Desenvolvedor WEB"
+          image={celsonPhoto}
+          description="\m/ \m/ \m/"
+        />
+
       </div>
     </main>
     <div className={styles.footer}>
