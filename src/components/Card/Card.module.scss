@@ -3,9 +3,10 @@
   flex-direction: column;
   align-items: center;
   height: 400px;
-  width: 250px;
+  width: 100%;
   padding: 2%;
-  background-color:white;  
+  box-sizing: border-box;
+  background-color: white;
   border-radius:25px; 
   
   h3 {
@@ -22,4 +23,3 @@
   border-radius: 50%;
   border: 2px inset #152347;
 }
-
