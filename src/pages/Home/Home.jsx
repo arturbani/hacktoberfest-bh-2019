@@ -7,9 +7,10 @@ import { Card } from 'components'
 import styles from './Home.module.scss'
 import imagemNH from '../../assets/images/nh-logo.png'
 import lucasPhoto from '../../assets/images/lucas-profile.jpeg'
+import luccaPhoto from '../../assets/images/lucca-profile.jpeg'
 
-const Home = () => {
-  return (
+
+const Home = () => (
     <div className={styles.container}>
       <header className={styles.header}>Hacktoberfest BH 2019</header>
       <main>
@@ -27,6 +28,15 @@ const Home = () => {
             image={lucasPhoto}
             description="\o/."
           />
+
+          <Card
+            name="Lucca"
+            role="Técnico de Suporte"
+            image={luccaPhoto}
+            description="Sou um amante de répteis e café :)."
+          />
+
+
         </div>
       </main>
 
@@ -38,6 +48,5 @@ const Home = () => {
       </div>
     </div>
   )
-}
 
 export default Home
