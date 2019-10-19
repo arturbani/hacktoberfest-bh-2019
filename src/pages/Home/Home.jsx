@@ -146,6 +146,12 @@ const Home = () => (
           image={brenoPhoto}
           description="Olá, mundo!"
         />
+        <Card
+          name="Philipe Atela"
+          role="Desenvolvedor"
+          image="https://avatars1.githubusercontent.com/u/9261021?s=460&v=4"
+          description="Bora moer"
+        />
       </div>
     </main>
     <div className={styles.footer}>
