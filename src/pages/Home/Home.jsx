@@ -10,13 +10,13 @@ import lucasPhoto from '../../assets/images/lucas-profile.jpeg'
 import gustavoBarros from '../../assets/images/gustavo-barros.jpeg'
 import raquelPhoto from '../../assets/images/raquel-profile.jpeg'
 import rodrigoPhoto from '../../assets/images/rodrigo-profile.jpeg'
-import daviPhoto from  '../../assets/images/davi.jpeg'
+import daviPhoto from '../../assets/images/davi.jpeg'
 
 const Home = () => {
   return (
     <div className={styles.container}>
       <header className={styles.header}>Hacktoberfest BH 2019</header>
-      <main>
+      <main className={styles.main}>
         <div className={styles.content}>
           <Card
             name="nata.house"
@@ -35,18 +35,20 @@ const Home = () => {
             role="Product Owner"
             image={gustavoBarros}
             description="Agilismo na veia :)"
-           <Card
+          />
+          <Card
             name="Raquel Calazans"
             role="Desenvolvedora de Software"
             image={raquelPhoto}
             description=";D"
-        <Card
+          />
+          <Card
             name="Rodrigo Gomes"
             role="Estudante de Computação"
             image={rodrigoPhoto}
             description="Salve rapaziada! :D."
           />
-         <Card
+          <Card
             name="Davi"
             role="Estudante de Computação"
             image={daviPhoto}
