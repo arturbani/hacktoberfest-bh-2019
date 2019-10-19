@@ -11,63 +11,64 @@ import luccaPhoto from '../../assets/images/lucca-profile.jpeg'
 import gustavoBarros from '../../assets/images/gustavo-barros.jpeg'
 import raquelPhoto from '../../assets/images/raquel-profile.jpeg'
 import rodrigoPhoto from '../../assets/images/rodrigo-profile.jpeg'
-import daviPhoto from  '../../assets/images/davi.jpeg'
-
+import daviPhoto from '../../assets/images/davi.jpeg'
 
 const Home = () => (
-    <div className={styles.container}>
-      <header className={styles.header}>Hacktoberfest BH 2019</header>
-      <main>
-        <div className={styles.content}>
-          <Card
-            name="nata.house"
-            role="Fábrica de Software"
-            image={imagemNH}
-            description="Estamos muito felizes em reunir essa moçada pra contribuir com a comunidade open-source \o/."
-          />
-          <Card
-            name="Lucas"
-            role="Desenvolvedor de Software"
-            image={lucasPhoto}
-            description="\o/."
-          />
-          <Card
-            name="Lucca"
-            role="Técnico de Suporte"
-            image={luccaPhoto}
-            description="Sou um amante de répteis e café :)."
-          />
-          <Card
-            name="Gustavo Barros"
-            role="Product Owner"
-            image={gustavoBarros}
-            description="Agilismo na veia :)"
-           <Card
-            name="Raquel Calazans"
-            role="Desenvolvedora de Software"
-            image={raquelPhoto}
-            description=";D"
+  <div className={styles.container}>
+    <header className={styles.header}>Hacktoberfest BH 2019</header>
+    <main>
+      <div className={styles.content}>
         <Card
-            name="Rodrigo Gomes"
-            role="Estudante de Computação"
-            image={rodrigoPhoto}
-            description="Salve rapaziada! :D."
-          />
-         <Card
-            name="Davi"
-            role="Estudante de Computação"
-            image={daviPhoto}
-            description="olá,passando pra avisar que computação é massa \o/."
-          />
-        </div>
-      </main>
-      <div className={styles.footer}>
-        <div>
-          <HacktoberfestLogo />
-          <NataHouseIcon />
-        </div>
+          name="nata.house"
+          role="Fábrica de Software"
+          image={imagemNH}
+          description="Estamos muito felizes em reunir essa moçada pra contribuir com a comunidade open-source \o/."
+        />
+        <Card
+          name="Lucas"
+          role="Desenvolvedor de Software"
+          image={lucasPhoto}
+          description="\o/."
+        />
+        <Card
+          name="Lucca"
+          role="Técnico de Suporte"
+          image={luccaPhoto}
+          description="Sou um amante de répteis e café :)."
+        />
+        <Card
+          name="Gustavo Barros"
+          role="Product Owner"
+          image={gustavoBarros}
+          description="Agilismo na veia :)"
+        />
+        <Card
+          name="Raquel Calazans"
+          role="Desenvolvedora de Software"
+          image={raquelPhoto}
+          description=";D"
+        />
+        <Card
+          name="Rodrigo Gomes"
+          role="Estudante de Computação"
+          image={rodrigoPhoto}
+          description="Salve rapaziada! :D."
+        />
+        <Card
+          name="Davi"
+          role="Estudante de Computação"
+          image={daviPhoto}
+          description="olá,passando pra avisar que computação é massa \o/."
+        />
+      </div>
+    </main>
+    <div className={styles.footer}>
+      <div>
+        <HacktoberfestLogo />
+        <NataHouseIcon />
       </div>
     </div>
-  )
+  </div>
+)
 
 export default Home
