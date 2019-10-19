@@ -1,7 +1,7 @@
 {
   "name": "hacktoberfest-bh-2019",
   "version": "0.1.0",
-  "homepage" : "https://arturbani.github.io/hacktoberfest-bh-2019/",
+  "homepage": "https://arturbani.github.io/hacktoberfest-bh-2019/",
   "private": true,
   "dependencies": {
     "@reach/router": "^1.2.1",
