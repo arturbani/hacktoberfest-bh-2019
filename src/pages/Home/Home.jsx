@@ -7,6 +7,7 @@ import { Card } from 'components'
 import styles from './Home.module.scss'
 import imagemNH from '../../assets/images/nh-logo.png'
 import lucasPhoto from '../../assets/images/lucas-profile.jpeg'
+import raquelPhoto from '../../assets/images/raquel-profile.jpeg'
 import rodrigoPhoto from '../../assets/images/rodrigo-profile.jpeg'
 import daviPhoto from  '../../assets/images/davi.jpeg'
 
@@ -28,6 +29,11 @@ const Home = () => {
             image={lucasPhoto}
             description="\o/."
           />
+           <Card
+            name="Raquel Calazans"
+            role="Desenvolvedora de Software"
+            image={raquelPhoto}
+            description=";D"
         <Card
             name="Rodrigo Gomes"
             role="Estudante de Computação"
@@ -42,7 +48,6 @@ const Home = () => {
           />
         </div>
       </main>
-
       <div className={styles.footer}>
         <div>
           <HacktoberfestLogo />
