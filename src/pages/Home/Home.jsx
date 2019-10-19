@@ -7,7 +7,7 @@ import { Card } from 'components'
 import styles from './Home.module.scss'
 import imagemNH from '../../assets/images/nh-logo.png'
 import lucasPhoto from '../../assets/images/lucas-profile.jpeg'
-import brenoPhoto from '../../assets/images/breno.jpeg';
+import brenoPhoto from '../../assets/images/breno.jpeg'
 import gtPhoto from '../../assets/images/gt-perfil.jpg'
 import rafael from '../../assets/images/indice.png'
 import alessandraPhoto from '../../assets/images/alessandraPhoto.jpg'
@@ -126,12 +126,12 @@ const Home = () => (
             image={gtPhoto}
             description="Em breve funcionário da NH xD"
           />
-       <Card
+        <Card
           name="Breno"
           role="Analista de Sistemas"
           image={brenoPhoto}
           description="Olá, mundo!"
-       />
+        />
       </div>
     </main>
     <div className={styles.footer}>
