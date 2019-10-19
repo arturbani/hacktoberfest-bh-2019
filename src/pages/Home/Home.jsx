@@ -7,6 +7,7 @@ import { Card } from 'components'
 import styles from './Home.module.scss'
 import imagemNH from '../../assets/images/nh-logo.png'
 import lucasPhoto from '../../assets/images/lucas-profile.jpeg'
+import brenoPhoto from '../../assets/images/breno.jpeg';
 import gtPhoto from '../../assets/images/gt-perfil.jpg'
 import rafael from '../../assets/images/indice.png'
 import alessandraPhoto from '../../assets/images/alessandraPhoto.jpg'
@@ -29,7 +30,7 @@ const Home = () => (
           image={imagemNH}
           description="Estamos muito felizes em reunir essa moçada pra contribuir com a comunidade open-source \o/."
         />
-        <Card 
+        <Card
           name="Artur"
           role="Desenvolvedor de Software"
           image={arturPhoto}
@@ -77,12 +78,12 @@ const Home = () => (
           image="https://miro.medium.com/max/2560/1*4IylnkNDFJ1aMYAlrsZoIg.jpeg"
           description="\o/."
         />
-         <Card
+        <Card
           name="Henrique"
           role="Filósofo"
           image="http://opiniaoenoticia.com.br/wp-content/uploads/2016/09/arthur_schopenhauer_33.jpg"
           description="Estamos muito felizes em reunir essa moçada pra contribuir com a comunidade open-source \o/."
-        /> 
+        />
         <Card
           name="Daniel Lima"
           role="Desenvolvedor de Software"
@@ -107,36 +108,12 @@ const Home = () => (
           image={rafael}
           description="Lets Code"
         />
-         <Card
-            name="Bruno Filipe"
-            role="Desenvolvedor de Software"
-            image="https://avatars2.githubusercontent.com/u/37847186?s=460&v=4"
-            description="\o/"
-          />
-          <Card
-            name="Gustavo Barros"
-            role="Product Owner"
-            image={gustavoBarros}
-            description="Agilismo na veia :)"
-          />
-          <Card
-            name="Raquel Calazans"
-            role="Desenvolvedora de Software"
-            image={raquelPhoto}
-            description=";D"
-          />
-          <Card
-            name="Rodrigo Gomes"
-            role="Estudante de Computação"
-            image={rodrigoPhoto}
-            description="Salve rapaziada! :D."
-          />
-          <Card
-            name="Davi"
-            role="Estudante de Computação"
-            image={daviPhoto}
-            description="olá,passando pra avisar que computação é massa \o/."
-          />
+        <Card
+           name="Bruno Filipe"
+           role="Desenvolvedor de Software"
+           image="https://avatars2.githubusercontent.com/u/37847186?s=460&v=4"
+           description="\o/"
+         />
           <Card
             name="Pâmela Fernanda"
             role="Estudante de Desenvolvimento"
@@ -149,13 +126,12 @@ const Home = () => (
             image={gtPhoto}
             description="Em breve funcionário da NH xD"
           />
-        </div>
-      </main>
-      <div className={styles.footer}>
-        <div>
-          <HacktoberfestLogo />
-          <NataHouseIcon />
-        </div>
+       <Card
+          name="Breno"
+          role="Analista de Sistemas"
+          image={brenoPhoto}
+          description="Olá, mundo!"
+       />
       </div>
     </main>
     <div className={styles.footer}>
