@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "90ebf44bdfb8488c5e5ae15ebd925352",
+    "revision": "2b6a8b1d52363e3672f4764b8fb898f2",
     "url": "/hacktoberfest-bh-2019/index.html"
   },
   {
-    "revision": "ac10221afee9174c7e83",
+    "revision": "3220b2c8c7c6f57f0d94",
     "url": "/hacktoberfest-bh-2019/static/css/main.a3f32167.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hacktoberfest-bh-2019/static/js/2.5ad85812.chunk.js"
   },
   {
-    "revision": "ac10221afee9174c7e83",
-    "url": "/hacktoberfest-bh-2019/static/js/main.cad86f91.chunk.js"
+    "revision": "3220b2c8c7c6f57f0d94",
+    "url": "/hacktoberfest-bh-2019/static/js/main.447abfe7.chunk.js"
   },
   {
     "revision": "3e36d3ebdc7ec31b95e3",
