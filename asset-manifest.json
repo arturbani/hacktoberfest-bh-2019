@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/hacktoberfest-bh-2019/static/css/main.cec59e27.chunk.css",
-    "main.js": "/hacktoberfest-bh-2019/static/js/main.da990c02.chunk.js",
-    "main.js.map": "/hacktoberfest-bh-2019/static/js/main.da990c02.chunk.js.map",
+    "main.css": "/hacktoberfest-bh-2019/static/css/main.25670803.chunk.css",
+    "main.js": "/hacktoberfest-bh-2019/static/js/main.edf370e8.chunk.js",
+    "main.js.map": "/hacktoberfest-bh-2019/static/js/main.edf370e8.chunk.js.map",
     "runtime-main.js": "/hacktoberfest-bh-2019/static/js/runtime-main.496b799b.js",
     "runtime-main.js.map": "/hacktoberfest-bh-2019/static/js/runtime-main.496b799b.js.map",
     "static/js/2.244824db.chunk.js": "/hacktoberfest-bh-2019/static/js/2.244824db.chunk.js",
     "static/js/2.244824db.chunk.js.map": "/hacktoberfest-bh-2019/static/js/2.244824db.chunk.js.map",
     "index.html": "/hacktoberfest-bh-2019/index.html",
-    "precache-manifest.83a51ad665f6eecc69552898f4e63a9b.js": "/hacktoberfest-bh-2019/precache-manifest.83a51ad665f6eecc69552898f4e63a9b.js",
+    "precache-manifest.e326ed83770eb38ae6c56cf18a74a1cd.js": "/hacktoberfest-bh-2019/precache-manifest.e326ed83770eb38ae6c56cf18a74a1cd.js",
     "service-worker.js": "/hacktoberfest-bh-2019/service-worker.js",
-    "static/css/main.cec59e27.chunk.css.map": "/hacktoberfest-bh-2019/static/css/main.cec59e27.chunk.css.map",
+    "static/css/main.25670803.chunk.css.map": "/hacktoberfest-bh-2019/static/css/main.25670803.chunk.css.map",
     "static/media/alessandraPhoto.jpg": "/hacktoberfest-bh-2019/static/media/alessandraPhoto.e09e301f.jpg",
     "static/media/breno.jpeg": "/hacktoberfest-bh-2019/static/media/breno.799845e4.jpeg",
     "static/media/celson-img.jpg": "/hacktoberfest-bh-2019/static/media/celson-img.c66bd977.jpg",
@@ -30,7 +30,7 @@
   "entrypoints": [
     "static/js/runtime-main.496b799b.js",
     "static/js/2.244824db.chunk.js",
-    "static/css/main.cec59e27.chunk.css",
-    "static/js/main.da990c02.chunk.js"
+    "static/css/main.25670803.chunk.css",
+    "static/js/main.edf370e8.chunk.js"
   ]
 }
