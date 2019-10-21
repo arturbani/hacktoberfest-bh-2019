@@ -6,11 +6,14 @@
   grid-column-gap: 30px;
   grid-row-gap: 15px;
   min-height: 100vh;
-  min-width: 90vh;
   padding-top: 5vh;
   margin-bottom: 5vh;
 
   * {
     margin: 1em;
+  }
+
+  @media (max-width: 425px) {
+    grid-template-columns: repeat(auto-fill, minmax(288px, 1fr));
   }
 }
