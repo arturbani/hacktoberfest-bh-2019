@@ -147,6 +147,12 @@ const CardList = () => (
       image="https://avatars1.githubusercontent.com/u/9261021?s=460&v=4"
       description="Bora moer"
     />
+    <Card
+      name="Arthur Conrado"
+      role="Desenvolvedor"
+      image="https://avatars0.githubusercontent.com/u/12896082?s=460&v=4"
+      description="Be water, my friend."
+    />
   </div>
 )
 
